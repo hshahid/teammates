@@ -21,4 +21,5 @@
             <span class="bold">Interested in joining us?: </span>Visit our <a href="https://github.com/TEAMMATES/teammates">Developer Website</a>.
         </p>
     </div>
+    <script src="js/contact.js"></script>
 </t:staticPage>
